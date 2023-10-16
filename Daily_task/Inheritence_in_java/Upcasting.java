@@ -16,8 +16,10 @@ class second  extends first{
 
 public class Upcasting{
     public static void main(String[] args) {
+        // upcasting
         first f=new second();
         f.show();
+        // downcasting
         ((second)f).wow();
     }
 }
