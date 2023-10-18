@@ -1,10 +1,12 @@
 class Rectangle{
     private int length; 
     private int breadth; 
+    //default constructor
     public Rectangle(){
-        this.length=5;
+        this.length= 5;
         this.breadth=4;
-    }
+     }
+    //parametric constructor
     public Rectangle(int length,int breadth){
         this.length=length;
         this.breadth=breadth;
@@ -39,7 +41,9 @@ public class Constructor_overloading{
         System.out.println("constructor with Arguments");
         System.out.println(r2.getlength());
         System.out.println(r2.getBreadth());
-        // System.out.println(r2.Area(10,20));
+        System.out.println(r2.Area());
+
+        //System.out.println(r2.Area(10,20));
 
         
 

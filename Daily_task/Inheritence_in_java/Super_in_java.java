@@ -8,7 +8,7 @@ class parent{
     }
 }
 class child extends parent{
-    child(int d){
+    child(int d){ 
         super(d);
         System.out.println("i am a construcor");
     }
