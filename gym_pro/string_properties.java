@@ -1,4 +1,4 @@
-public class  first{
+public class  string_properties{
     public static void main(String[] args) {
         // Program for checking given string are same or not
         String ex1 = "Welcome";
