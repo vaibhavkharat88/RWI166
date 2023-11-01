@@ -103,16 +103,17 @@ body{
     padding-top: 30px;
     height: 400px;
 }
-.main_containe_progress{
+.main_container_progress{
     width: 100%;
     /* / */
     display: flex;
     text-align: center;
     align-items: center;
     justify-content: space-around;
+    margin-left: 10px;
 }
-.main_containe_progress img{
-    width: 500px;
+.main_container_progress img{
+    width: 400px;
     border-radius: 20px;
     height: 350px;
 

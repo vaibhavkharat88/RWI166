@@ -1,4 +1,4 @@
-@media only screen and (min-width:768px) and (max-width:991px){
+@media only screen and (min-width:768px) and (max-width:984px){
     .maindiv{
         max-width: 100%;
         height: 300px;
@@ -45,3 +45,84 @@
     }
 
 }
+@media only screen and (min-width:320px) and (max-width:767px){
+    .maindiv{
+        max-width: 100%;
+        height: 300px;
+    }
+    .lapi{
+        width: 206%;
+        height: 400px;
+        margin-right: 0;
+    } 
+    .about_us{
+        width: 206%;
+        /* padding-top: 25px; */
+        margin-top: 45%
+
+    }
+    .head3{
+        margin-top: 4%;
+    }
+    .head11 {
+        margin-bottom: 25px;
+        text-align: center;
+    }
+        .head2 {
+            text-align: center;
+            font-size: 25px;
+            margin-bottom: 30px;
+        }
+    
+    .differ{
+    display: flex;
+    flex-direction: column;
+    width: 199%;
+    margin-top: 20%;
+    margin-bottom: 30px;
+
+        
+    }
+    .main_container_progress{
+        display: flex;
+        flex-direction: column;
+        /* margin-right: 28%; */
+        align-items: center;
+        width: 194%;
+    }
+    .main_container_progress img{
+        width: auto;
+        margin-bottom: 20px;
+
+    }
+    .sideimg img{
+        width: 536px;
+    }
+    .main_div{
+        display: flex;
+        flex-direction: column;
+        
+        margin-top: 100%;
+
+    }
+    .first{
+         
+            align-items: center;
+            text-align: center;
+            width: 100%;
+            height: 500px;
+            margin-left: 50%;
+        }
+        .first img{
+
+        }
+    
+
+    
+    }
+
+
+
+        
+
+   
