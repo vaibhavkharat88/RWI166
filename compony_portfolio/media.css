@@ -51,12 +51,12 @@
         height: 300px;
     }
     .lapi{
-        width: 206%;
+        width: 219%;
         height: 400px;
         margin-right: 0;
     } 
     .about_us{
-        width: 206%;
+        width: 217%;
         /* padding-top: 25px; */
         margin-top: 45%
 
@@ -67,17 +67,20 @@
     .head11 {
         margin-bottom: 25px;
         text-align: center;
+        font-size: 28px;
+        letter-spacing: 1px;
     }
         .head2 {
             text-align: center;
-            font-size: 25px;
+            font-size: 20px;
             margin-bottom: 30px;
+            letter-spacing: 0.5px;
         }
     
     .differ{
     display: flex;
     flex-direction: column;
-    width: 199%;
+    width: 217%;
     margin-top: 20%;
     margin-bottom: 30px;
 
@@ -88,7 +91,7 @@
         flex-direction: column;
         /* margin-right: 28%; */
         align-items: center;
-        width: 194%;
+        width: 217%;
     }
     .main_container_progress img{
         width: auto;
@@ -102,19 +105,43 @@
         display: flex;
         flex-direction: column;
         
+        
         margin-top: 100%;
+
 
     }
     .first{
          
             align-items: center;
             text-align: center;
-            width: 100%;
+            width: 118%;
             height: 500px;
             margin-left: 50%;
         }
-        .first img{
+        .main_container{
+            margin-top: 120%;
+            width: 219%;
+        
+            
 
+        }
+        .head11{
+            font-size: 15px;
+
+        }
+        .footer_menu a{
+            margin-right: 12px;
+            
+        }
+        .last_matter{
+            width: 219%;
+
+        }.line{
+            width: 219%;
+            
+        }
+        h5{
+            font-size: 10px;
         }
     
 
